@@ -182,5 +182,6 @@
         <Border BorderThickness="0.7" Margin="55,19,427,111" Background="Green" CornerRadius="3,3,3,3" Grid.RowSpan="2">
             <TextBlock Text="0" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18" Foreground="White" />
         </Border>
+        
     </Grid>
 </Window>
